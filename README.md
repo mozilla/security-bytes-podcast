@@ -1,5 +1,7 @@
 # Mozilla Security Bytes podcast
 
+Public feed: https://d1driw5hlgyml1.cloudfront.net/feed.xml
+
 This repository contains the files used to publish the SecBytes podcast to S3.
 Each episode is posted in its own folder, numbered by episode, and a global
 `feed.xml` file is created to tell iTunes how to retrieve them.
