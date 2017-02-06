@@ -1,0 +1,11 @@
+<item>
+    <title>Content Security Policy</title>
+    <itunes:author>Julien Vehent, Christoph Kerschbaumer, Frederik Braun and Dylan Hardison</itunes:author>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:summary>In this first episode, we talk about Content Security Policy, or CSP, with Christoph Kerschbaumer, Frederik Braun and Dylan Hardison. We cover both the history and future of CSP, and various issues we have learned while implementing it on our own sites and services.</itunes:summary>
+    <enclosure url="https://d1driw5hlgyml1.cloudfront.net/episodes/1/Mozilla+Security+Bytes+-+Episode+1+-+Content+Security+Policy.mp3" length="39916433" type="audio/mpeg" />
+    <guid>https://d1driw5hlgyml1.cloudfront.net/episodes/1/Mozilla+Security+Bytes+-+Episode+1+-+Content+Security+Policy.mp3</guid>
+    <pubDate>Thu, 02 Feb 2017 12:00:00 GMT</pubDate>
+    <itunes:duration>00:43:16</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+</item>

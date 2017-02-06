@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Mozilla Security Bytes</title>
+    <link>https://blog.mozilla.org/security/category/security-bytes-podcast/</link>
+    <language>en-us</language>
+    <copyright>Creative Commons Attribution Share-Alike License v3.0</copyright>
+    <itunes:subtitle>Security &amp; Privacy on the Open Web</itunes:subtitle>
+    <itunes:author>Julien Vehent</itunes:author>
+    <itunes:summary>Sharing the work we do around the open web, information security and user privacy is an important role of Mozilla Security. The Mozilla Security Bytes podcast discuss various topics and technologies implemented in Firefox and other Mozilla products and initiatives.</itunes:summary>
+    <description></description>
+    <itunes:owner>
+      <itunes:name>Julien Vehent</itunes:name>
+      <itunes:email>security-bytes@mozilla.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://d1driw5hlgyml1.cloudfront.net/img/mozilla_security_bytes.png"/>
+    <itunes:category text="Technology">
+      <itunes:category text="Software How-To"/>
+    </itunes:category>
+    <itunes:complete>no</itunes:complete>
+    <itunes:explicit>no</itunes:explicit>
+
+<item>
+    <title>Content Security Policy</title>
+    <itunes:author>Julien Vehent, Christoph Kerschbaumer, Frederik Braun and Dylan Hardison</itunes:author>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:summary>In this first episode, we talk about Content Security Policy, or CSP, with Christoph Kerschbaumer, Frederik Braun and Dylan Hardison. We cover both the history and future of CSP, and various issues we have learned while implementing it on our own sites and services.</itunes:summary>
+    <enclosure url="https://d1driw5hlgyml1.cloudfront.net/episodes/1/Mozilla+Security+Bytes+-+Episode+1+-+Content+Security+Policy.mp3" length="39916433" type="audio/mpeg" />
+    <guid>https://d1driw5hlgyml1.cloudfront.net/episodes/1/Mozilla+Security+Bytes+-+Episode+1+-+Content+Security+Policy.mp3</guid>
+    <pubDate>Thu, 02 Feb 2017 12:00:00 GMT</pubDate>
+    <itunes:duration>00:43:16</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:order>1</itunes:order>
+</item>
+
+</channel>
+</rss>
