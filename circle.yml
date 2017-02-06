@@ -1,3 +1,10 @@
+dependencies:
+  pre:
+    - sudo apt update
+    - sudo apt install libxml2-utils
+test:
+  override:
+    - xmllint feed.xml
 deployment:
   prod:
     branch: master
